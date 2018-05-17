@@ -4,7 +4,9 @@ This Repo consists of codes of two subtasks of
 .
 
 
-Encryption.java is the java code of **TASK 1A**.
+[Encryption.java](https://github.com/ShashvatJK/Task1Algos/blob/master/Encryption.java) 
+is the java code of **TASK 1A**.
 
 
-Elevator.java is the java code of **TASK 1B**.
+[Elevator.java](https://github.com/ShashvatJK/Task1Algos/blob/master/Elevator.java) 
+is the java code of **TASK 1B**.
