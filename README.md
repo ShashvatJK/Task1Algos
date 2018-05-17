@@ -1,5 +1,6 @@
+###ALGOS TASK 1
 This Repo consists of codes of two subtasks of 
-####ALGOS TASK 1
+**ALGOS TASK 1**
 .
 
 
